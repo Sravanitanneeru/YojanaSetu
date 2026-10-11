@@ -1,0 +1,6 @@
+{
+  "name": "YojanaSetu - AI Government Schemes Engine & Tracker",
+  "description": "Inclusive AI platform matching marginalized entrepreneurs to government loan, subsidy, and skill schemes with multilingual voice, rule-based matching, and real-time application tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
